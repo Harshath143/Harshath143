@@ -17,7 +17,7 @@
 - **Programming**: Python, SQL  
 - **Specialties**: Machine Learning, Deep Learning, NLP  
 - **Tools & Frameworks**: Selenium, Streamlit, Pandas  
-- **Current Projects**: Used Car Price Prediction App  
+- **Current Projects**: Gen AI related Projects  
 
 ---
 
