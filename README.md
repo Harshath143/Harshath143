@@ -22,7 +22,6 @@
 
 <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
 
 ---
 
