@@ -16,62 +16,47 @@
 
 ## 🧠 Skills & Technologies
 
+---
+
 ### 🖥 Programming Languages
+
 <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
 
 ---
 
-### 🤖 AI / Data Science Stack
-
-🧠 Machine Learning (Classification, Regression, Clustering)  
-🗣️ NLP & Generative AI (Transformers, LangChain, RAG)  
-🔄 Time Series Forecasting  
-📊 Data Analysis & Preprocessing  
-🧪 Model Evaluation & Tuning  
-🤖 Deep Learning (CNN, LSTM, RNN)
-
-#### 🧰 Libraries & Frameworks
-
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" />
-
----
-
-### 📈 Business Analysis Stack
-
-📊 Business Intelligence & Dashboarding  
-🔍 Requirements Gathering & Gap Analysis  
-📈 KPI Tracking & Performance Metrics  
-🧠 Data-Driven Decision Making  
-📑 User Stories & Documentation  
-🧩 Stakeholder Communication
-
-#### ⚙️ BA Tools & Platforms
-
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Lucidchart-FC6D26?logo=lucidchart&logoColor=white" />
-
----
-
-### 💻 Full Stack & Deployment
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" />
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧪 Data Science Tools</h3>
+        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /><br>
+        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <h3>📊 Business Analyst Tools</h3>
+        <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Lucidchart-FC6D26?logo=lucidchart&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
