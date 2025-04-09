@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Data Science & AI Skills
+## 🧠 Skills & Technologies
 
 ### 🖥 Programming Languages
 <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
@@ -23,42 +23,35 @@
 
 ---
 
-### 🧠 Machine Learning & AI Stack
+### 🤖 AI / Data Science Stack
 
-🧠 ML Algorithms – Classification, Regression, Clustering  
-🗣️ NLP & GenAI – Transformers, LangChain, RAG  
+🧠 Machine Learning (Classification, Regression, Clustering)  
+🗣️ NLP & Generative AI (Transformers, LangChain, RAG)  
 🔄 Time Series Forecasting  
-📊 EDA, Feature Engineering, Data Cleaning  
-🧪 Hyperparameter Tuning & Model Optimization  
-🤖 Deep Learning – CNN, RNN, LSTM  
+📊 Data Analysis & Preprocessing  
+🧪 Model Evaluation & Tuning  
+🤖 Deep Learning (CNN, LSTM, RNN)
 
----
-
-### 🧰 Libraries & Frameworks
+#### 🧰 Libraries & Frameworks
 
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
 
 ---
 
-## 📊 Business Analyst Tools & Skills
+### 📈 Business Analysis Stack
 
-### 💼 Core BA Skills
+📊 Business Intelligence & Dashboarding  
+🔍 Requirements Gathering & Gap Analysis  
+📈 KPI Tracking & Performance Metrics  
+🧠 Data-Driven Decision Making  
+📑 User Stories & Documentation  
+🧩 Stakeholder Communication
 
-📊 BI Reporting & Dashboarding  
-📈 KPI Tracking & Data-Driven Decision Making  
-🧠 Strategic Analysis & Market Insights  
-📑 Requirement Elicitation, Documentation, User Stories  
-🔍 Gap Analysis & Stakeholder Communication
-
----
-
-### ⚙️ Tools & Platforms
+#### ⚙️ BA Tools & Platforms
 
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" />
@@ -70,7 +63,7 @@
 
 ---
 
-### 💻 Development & Deployment
+### 💻 Full Stack & Deployment
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" />
