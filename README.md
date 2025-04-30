@@ -1,4 +1,4 @@
-# ✨ Mohammed Harshath SS ✨
+#  Mohammed Harshath SS 
 
 **AI & Data Science Graduate | Generative AI Engineer | Business Analyst**
 
