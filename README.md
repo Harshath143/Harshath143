@@ -12,60 +12,51 @@
 💼 **LinkedIn**: [Mohammed Harshath SS](https://www.linkedin.com/in/mohammed-harshath-ss-a68435208/)  
 🌐 **Portfolio**: [harshath143.github.io/Portfolio](https://harshath143.github.io/Portfolio/)
 
----
-
 ## 🧠 Skills & Technologies
 
 ---
 
 ### 🖥 Programming Languages
 
-<img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
+- ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <h3>🧪 Data Science & Gen AI Tools</h3>
-        <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /><br>
-        <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /><br><br>
+### 🧪 Data Science Tools
 
-        <h4>🧠 Generative AI Tools</h4>
-        <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/LLamaIndex-1E1E1E?logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Transformers-FF6F61?logo=python&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Ollama-00B2A9?logo=llama&logoColor=white" />
-      </td>
-      <td align="center" width="50%">
-        <h3>📊 Business Analyst Tools</h3>
-        <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Lucidchart-FC6D26?logo=lucidchart&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?logo=python&logoColor=white)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ---
+
+### 🧠 Generative AI Tools
+
+- ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+- ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black)
+- ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white)
+- ![LLamaIndex](https://img.shields.io/badge/LLamaIndex-1E1E1E?logo=python&logoColor=white)
+- ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?logo=python&logoColor=white)
+- ![Ollama](https://img.shields.io/badge/Ollama-00B2A9?logo=llama&logoColor=white)
+
+---
+
+### 📊 Business Analyst Tools
+
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+- ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+- ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+- ![Lucidchart](https://img.shields.io/badge/Lucidchart-FC6D26?logo=lucidchart&logoColor=white)
+
 
 ## 🎯 Career Objective
 
