@@ -2,7 +2,7 @@
 
 # Mohammed Harshath SS
 
-👋 Hi! I'm **Mohammed Harshath**, an AI & Data Science graduate with a strong drive to bridge the gap between data engineering and business strategy. I specialize in transforming raw data into actionable insights through Machine Learning, Analytics, and Generative AI. I'm actively pursuing opportunities as a **Data Scientist** and **Business Analyst** to solve real-world problems with smart, scalable solutions.
+👋 Hi! I'm **Mohammed Harshath**, an AI & Data Science graduate with a strong drive to bridge the gap between data engineering and business strategy. I specialize in transforming raw data into actionable insights through Machine Learning, Analytics, and Generative AI. I'm actively pursuing opportunities as a **Data Scientist**, **Business Analyst**, and **Generative AI Engineer** to solve real-world problems with smart, scalable solutions.
 
 ---
 
@@ -29,7 +29,7 @@
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <h3>🧪 Data Science Tools</h3>
+        <h3>🧪 Data Science & Gen AI Tools</h3>
         <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" /><br>
@@ -41,7 +41,15 @@
         <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /><br>
         <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" /><br>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" /><br>
-        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white" /><br><br>
+
+        <h4>🧠 Generative AI Tools</h4>
+        <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black" /><br>
+        <img src="https://img.shields.io/badge/LangChain-000000?logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/LLamaIndex-1E1E1E?logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Transformers-FF6F61?logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Ollama-00B2A9?logo=llama&logoColor=white" />
       </td>
       <td align="center" width="50%">
         <h3>📊 Business Analyst Tools</h3>
@@ -61,7 +69,7 @@
 
 ## 🎯 Career Objective
 
-As a hybrid **Data Scientist–Business Analyst**, I aim to contribute to organizations by building explainable, efficient AI solutions while aligning them with core business objectives. Whether it’s creating an ML model or analyzing KPIs for a product launch—I’m all in.
+As a hybrid **Data Scientist–Business Analyst**, I aim to contribute to organizations by building explainable, efficient AI and **Generative AI** solutions while aligning them with core business objectives. Whether it’s creating an ML model, fine-tuning LLMs, or analyzing KPIs for a product launch—I’m all in.
 
 ---
 
