@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Mohammed Harshath SS
+# ✨ Mohammed Harshath SS ✨
 
 🌌 Bridging Data, Intelligence & Innovation
 
