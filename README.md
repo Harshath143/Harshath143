@@ -54,7 +54,7 @@ Passionate about the future of intelligent systems and building scalable, human-
 
 - Email: [harshath142@gmail.com](mailto:harshath142@gmail.com)
 - LinkedIn: [Mohammed Harshath SS](https://www.linkedin.com/in/mohammed-harshath-ss-a68435208/)
-- Portfolio: [harshath143.github.io/Portfolio](https://harshath143.github.io/Portfolio)
+- Portfolio: [Harshath](https://harshath143.github.io/)
 
 ---
 
