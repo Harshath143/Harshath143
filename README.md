@@ -1,6 +1,6 @@
 #  Mohammed Harshath SS 
 
-**AI & Data Science Graduate | Generative AI Engineer | Business Analyst**
+**AI & Data Science Graduate | AI Developer @ IRMAI**
 
 Passionate about the future of intelligent systems and building scalable, human-aligned AI solutions.
 
