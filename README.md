@@ -1,6 +1,6 @@
 #  Mohammed Harshath SS 
 
-**AI & Data Science Graduate | AI Developer @ IRMAI**
+**AI & Data Science Graduate | AI Developer @ Holistic MD LLP**
 
 Passionate about the future of intelligent systems and building scalable, human-aligned AI solutions.
 
